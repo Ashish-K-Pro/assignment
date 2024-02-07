@@ -1,1 +1,1 @@
-# the key frame extraction video
+# the segmentation algos
